@@ -1,0 +1,1 @@
+# AnalizaIBazy_Lab1_Stalmach
