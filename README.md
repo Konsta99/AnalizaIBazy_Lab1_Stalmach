@@ -1,1 +1,1 @@
-# AnalizaIBazy_Lab1_Stalmach
+# AnalizaIBazy_Stalmach
